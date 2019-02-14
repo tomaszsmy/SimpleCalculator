@@ -1,0 +1,1 @@
+Prosty kalkulator z interfejsem graficznym wykonanym w Windows Forms.
